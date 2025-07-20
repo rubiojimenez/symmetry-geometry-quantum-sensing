@@ -2,4 +2,4 @@
 
 This repository contains scripts for the publication:
 
-J. Boeyens, J. Glatthard, E. Gandar, S. Nimmrichter, L. A. Correa, and J. Rubio. [arXiv:2011.13018](https://arxiv.org/abs/2011.13018). [arXiv:2502.14817](https://arxiv.org/abs/2502.14817).  
+J. Boeyens, J. Glatthard, E. Gandar, S. Nimmrichter, L. A. Correa, and J. Rubio. [arXiv:2502.14817](https://arxiv.org/abs/2502.14817).  
